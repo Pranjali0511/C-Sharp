@@ -1,0 +1,12 @@
+D:\C#\Pranjali\SGM_Student_Application\bin\Debug\SGM_Student_Application.exe.config
+D:\C#\Pranjali\SGM_Student_Application\bin\Debug\SGM_Student_Application.exe
+D:\C#\Pranjali\SGM_Student_Application\bin\Debug\SGM_Student_Application.pdb
+D:\C#\Pranjali\SGM_Student_Application\obj\Debug\SGM_Student_Application.csproj.AssemblyReference.cache
+D:\C#\Pranjali\SGM_Student_Application\obj\Debug\SGM_Student_Application.frm_Add_New_Student.resources
+D:\C#\Pranjali\SGM_Student_Application\obj\Debug\SGM_Student_Application.frm_Login_Form.resources
+D:\C#\Pranjali\SGM_Student_Application\obj\Debug\SGM_Student_Application.frm_View_Student_List.resources
+D:\C#\Pranjali\SGM_Student_Application\obj\Debug\SGM_Student_Application.Properties.Resources.resources
+D:\C#\Pranjali\SGM_Student_Application\obj\Debug\SGM_Student_Application.csproj.GenerateResource.cache
+D:\C#\Pranjali\SGM_Student_Application\obj\Debug\SGM_Student_Application.csproj.CoreCompileInputs.cache
+D:\C#\Pranjali\SGM_Student_Application\obj\Debug\SGM_Student_Application.exe
+D:\C#\Pranjali\SGM_Student_Application\obj\Debug\SGM_Student_Application.pdb
