@@ -1,0 +1,13 @@
+D:\C#\Pranjali\Student_Management_System_2022\obj\Debug\Student_Management_System_2022.csproj.AssemblyReference.cache
+D:\C#\Pranjali\Student_Management_System_2022\obj\Debug\Student_Management_System_2022.frm_Add_New_Student.resources
+D:\C#\Pranjali\Student_Management_System_2022\obj\Debug\Student_Management_System_2022.frm_Login_Form.resources
+D:\C#\Pranjali\Student_Management_System_2022\obj\Debug\Student_Management_System_2022.frm_Search_Student_Details.resources
+D:\C#\Pranjali\Student_Management_System_2022\obj\Debug\Student_Management_System_2022.frm_View_Student_List.resources
+D:\C#\Pranjali\Student_Management_System_2022\obj\Debug\Student_Management_System_2022.Properties.Resources.resources
+D:\C#\Pranjali\Student_Management_System_2022\obj\Debug\Student_Management_System_2022.csproj.GenerateResource.cache
+D:\C#\Pranjali\Student_Management_System_2022\obj\Debug\Student_Management_System_2022.csproj.CoreCompileInputs.cache
+D:\C#\Pranjali\Student_Management_System_2022\bin\Debug\Student_Management_System_2022.exe.config
+D:\C#\Pranjali\Student_Management_System_2022\bin\Debug\Student_Management_System_2022.exe
+D:\C#\Pranjali\Student_Management_System_2022\bin\Debug\Student_Management_System_2022.pdb
+D:\C#\Pranjali\Student_Management_System_2022\obj\Debug\Student_Management_System_2022.exe
+D:\C#\Pranjali\Student_Management_System_2022\obj\Debug\Student_Management_System_2022.pdb

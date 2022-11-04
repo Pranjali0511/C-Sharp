@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Student_Management_System_2022_DBDataSet1" targetNamespace="http://tempuri.org/Student_Management_System_2022_DBDataSet1.xsd" xmlns:mstns="http://tempuri.org/Student_Management_System_2022_DBDataSet1.xsd" xmlns="http://tempuri.org/Student_Management_System_2022_DBDataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="Student_Management_System_2022_DBConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="Student_Management_System_2022_DBConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Student_Management_System_2022.Properties.Settings.GlobalReference.Default.Student_Management_System_2022_DBConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Student_InformationTableAdapter" GeneratorDataComponentClassName="Student_InformationTableAdapter" Name="Student_Information" UserDataComponentName="Student_InformationTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="Student_Management_System_2022_DBConnectionString (Settings)" DbObjectName="Student_Management_System_2022_DB.dbo.Student_Information" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Roll_No, Name, Mobile_No, Course FROM dbo.Student_Information</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Roll_No" DataSetColumn="Roll_No" />
+              <Mapping SourceColumn="Name" DataSetColumn="Name" />
+              <Mapping SourceColumn="Mobile_No" DataSetColumn="Mobile_No" />
+              <Mapping SourceColumn="Course" DataSetColumn="Course" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Student_Management_System_2022_DBDataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="Student_Management_System_2022_DBDataSet1" msprop:Generator_UserDSName="Student_Management_System_2022_DBDataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Student_Information" msprop:Generator_TableClassName="Student_InformationDataTable" msprop:Generator_TableVarName="tableStudent_Information" msprop:Generator_TablePropName="Student_Information" msprop:Generator_RowDeletingName="Student_InformationRowDeleting" msprop:Generator_RowChangingName="Student_InformationRowChanging" msprop:Generator_RowEvHandlerName="Student_InformationRowChangeEventHandler" msprop:Generator_RowDeletedName="Student_InformationRowDeleted" msprop:Generator_UserTableName="Student_Information" msprop:Generator_RowChangedName="Student_InformationRowChanged" msprop:Generator_RowEvArgName="Student_InformationRowChangeEvent" msprop:Generator_RowClassName="Student_InformationRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Roll_No" msprop:Generator_ColumnVarNameInTable="columnRoll_No" msprop:Generator_ColumnPropNameInRow="Roll_No" msprop:Generator_ColumnPropNameInTable="Roll_NoColumn" msprop:Generator_UserColumnName="Roll_No" type="xs:int" />
+              <xs:element name="Name" msprop:Generator_ColumnVarNameInTable="columnName" msprop:Generator_ColumnPropNameInRow="Name" msprop:Generator_ColumnPropNameInTable="NameColumn" msprop:Generator_UserColumnName="Name">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Mobile_No" msprop:Generator_ColumnVarNameInTable="columnMobile_No" msprop:Generator_ColumnPropNameInRow="Mobile_No" msprop:Generator_ColumnPropNameInTable="Mobile_NoColumn" msprop:Generator_UserColumnName="Mobile_No" type="xs:decimal" />
+              <xs:element name="Course" msprop:Generator_ColumnVarNameInTable="columnCourse" msprop:Generator_ColumnPropNameInRow="Course" msprop:Generator_ColumnPropNameInTable="CourseColumn" msprop:Generator_UserColumnName="Course">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
