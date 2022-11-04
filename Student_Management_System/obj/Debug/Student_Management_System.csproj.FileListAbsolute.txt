@@ -1,0 +1,13 @@
+D:\C#\Pranjali\Student_Management_System\bin\Debug\Student_Management_System.exe.config
+D:\C#\Pranjali\Student_Management_System\bin\Debug\Student_Management_System.exe
+D:\C#\Pranjali\Student_Management_System\bin\Debug\Student_Management_System.pdb
+D:\C#\Pranjali\Student_Management_System\obj\Debug\Student_Management_System.csproj.AssemblyReference.cache
+D:\C#\Pranjali\Student_Management_System\obj\Debug\Student_Management_System.frm_Add_New_Student.resources
+D:\C#\Pranjali\Student_Management_System\obj\Debug\Student_Management_System.frm_Login_Form.resources
+D:\C#\Pranjali\Student_Management_System\obj\Debug\Student_Management_System.Properties.Resources.resources
+D:\C#\Pranjali\Student_Management_System\obj\Debug\Student_Management_System.csproj.GenerateResource.cache
+D:\C#\Pranjali\Student_Management_System\obj\Debug\Student_Management_System.csproj.CoreCompileInputs.cache
+D:\C#\Pranjali\Student_Management_System\obj\Debug\Student_Management_System.exe
+D:\C#\Pranjali\Student_Management_System\obj\Debug\Student_Management_System.pdb
+D:\C#\Pranjali\Student_Management_System\obj\Debug\Student_Management_System.frm_Search_Student.resources
+D:\C#\Pranjali\Student_Management_System\obj\Debug\Student_Management_System.frm_View_Student_List.resources
